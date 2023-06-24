@@ -1,4 +1,0 @@
-import datetime
-
-time_deduction = datetime.timedelta()
-        print(time_deduction)

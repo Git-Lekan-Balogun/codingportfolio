@@ -750,7 +750,7 @@ while True:
 
     elif user_choice == "A":
         # read_task_database("tasks.txt", "r+") # manipulating task file
-        add_task("tasks.txt", "r")  # taking details to add a task
+        add_task("tasks.txt", "a+")  # taking details to add a task
 
     elif user_choice == "VA":
 

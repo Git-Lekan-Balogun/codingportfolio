@@ -65,6 +65,9 @@ for row in store_coordinates:
 
 print(map)
 
+for i in minefield:
+    print()
+
 
         # digit = int(digit)
         # print(digit)
